@@ -1,0 +1,6 @@
+{
+  "name": "PDF Renamer: LLC Annual Reports",
+  "description": "Automatically renames PDF decisions on LLC annual reports by extracting the company name and year using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
